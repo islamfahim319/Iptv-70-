@@ -1,0 +1,149 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/andpic.png" group-title="Entertainment",And Pictures HD
+http://172.19.17.3:8090/hls/AndPictureHD.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/ptvsports.png" group-title="Sports",PTV Sports HD
+http://172.19.17.3:8090/hls/ptvsportshd.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/sonymax.png" group-title="Movies",Sony MAX HD
+http://172.19.17.3:8090/hls/sonymaxhd.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/star-movies-hd.jpg" group-title="Movies",Star Movies HD
+http://172.19.17.3:8090/hls/StarMoviesHD.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/starsportsselect1.png" group-title="Sports",Star Sports Select 2 HD
+http://172.19.17.3:8090/hls/StarSportsSelect2HD.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/cnhd.png" group-title="Kids",Cartoon Network HD
+http://172.19.17.3:8090/hls/CartoonNetworkHD.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/sonysports5.png" group-title="Sports",Sony Ten 5 HD
+http://172.19.17.3:8090/hls/SonyTen5HD.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/starjalsha.png" group-title="Entertainment",Star Jalsha HD
+http://172.19.17.3:8090/hls/StarJalshaHD.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/jalshamovies.png" group-title="Movies",Jalsha Movies HD
+http://172.19.17.3:8090/hls/JalshaMoviesHD.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/starplus.png" group-title="Entertainment",Star Plus HD
+http://172.19.17.3:8090/hls/StarPlusHD.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/starsportsselect1.png" group-title="Sports",Star Sports Select 1 HD
+http://172.19.17.3:8090/hls/StarSportsSelect1HD.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/sangeetbangla.png" group-title="Music",Sangeet Bangla
+http://172.19.17.3:8090/hls/SangeetBangla.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/starsports2.png" group-title="Sports",Star Sports 2 HD
+http://172.19.17.3:8090/hls/StarSports2HD.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/bein1.png" group-title="Sports",beIN Sports 1 ENG
+http://172.19.17.3:8090/hls/BeinSports1ENG.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/sonysports3.png" group-title="Sports",Sony Ten 3 HD
+http://172.19.17.3:8090/hls/SonyTen3hd.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/colors.png" group-title="Entertainment",Colors HD
+http://172.19.17.3:8090/hls/ColorsHD.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/asportse.png" group-title="Sports",A Sports HD
+http://172.19.17.3:8090/hls/ASportsHD.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/9xm.png" group-title="Music",9XM
+http://172.19.17.3:8090/hls/9xm.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/bbcworldnews.png" group-title="News",BBC World News
+http://172.19.17.3:8090/hls/bbc_world.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/cnhd.png" group-title="Entertainment",Zee Bangla HD
+http://172.19.17.3:8090/hls/ZeeBanglaHD.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/somoytv.jpg" group-title="News",Somoy TV
+http://172.19.17.3:8090/hls/somoytv.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/TSports.jpg" group-title="Sports",T Sports HD
+http://172.19.17.3:8090/hls/tsportshd.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/discoveryhd.png" group-title="Documentary",Discovery HD
+http://172.19.17.3:8090/hls/DiscoveryHD.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/starsports1.png" group-title="Sports",Sports One
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w1985157892_b1307000.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/sony.png" group-title="Entertainment",Sony HD
+http://172.19.17.3:8090/hls/SonyHD.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/BTV.png" group-title="Bangla",BTV National HD
+http://172.19.17.3:8090/hls/BTVNationalHD.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/sonyaath.png" group-title="Entertainment",Sony Aath
+http://172.19.17.3:8090/hls/SonyAtth.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/starsports1.png" group-title="Sports",Sports One
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w1985157892_b978000.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/aljazeranews.png" group-title="News",Al Jazeera News
+http://172.19.17.3:8090/hls/ALjazeeraNews.m3u8
+#EXTINF:-1 tvg-logo="http://172.19.17.28/images/discoveryhd.png" group-title="Kids",Discovery Kids
+http://172.19.17.3:8090/hls/DiscoveryKids.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/tsportshd.jpg" group-title="SPORTS",T SPORTS
+http://100.64.32.2:8080/wetvlink/wetvlink/155.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/starsports1.jpg" group-title="SPORTS",STAR SPORTS 1 HD
+http://100.64.32.2:8080/wetvlink/wetvlink/156.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/starsports2hd.jpg" group-title="SPORTS",STAR SPORTS 2 HD
+http://100.64.32.2:8080/wetvlink/wetvlink/157.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/starsportssel1.jpg" group-title="SPORTS",STAR SPORTS SELECT 1 HD
+http://100.64.32.2:8080/wetvlink/wetvlink/158.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/starsportssel2.jpg" group-title="SPORTS",STAR SPORTS SELECT 2 HD
+http://100.64.32.2:8080/wetvlink/wetvlink/159.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/starsports3hd.jpg" group-title="SPORTS",STARSPORTS 3
+http://100.64.32.2:8080/wetvlink/wetvlink/160.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/starsportshindi2.jpg" group-title="SPORTS",STAR SPORTS HINDI 2 HD
+http://100.64.32.2:8080/wetvlink/wetvlink/161.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/sonyten1.jpg" group-title="SPORTS",SONYTEN 1 HD
+http://100.64.32.2:8080/wetvlink/wetvlink/162.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/sonyten2.jpg" group-title="SPORTS",SONYTEN 2 HD
+http://100.64.32.2:8080/wetvlink/wetvlink/163.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/sonyten3.jpg" group-title="SPORTS",SONYTEN 3 HD
+http://100.64.32.2:8080/wetvlink/wetvlink/164.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/sonyten5.jpg" group-title="SPORTS",SONYTEN 5 HD
+http://100.64.32.2:8080/wetvlink/wetvlink/165.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/tnt1hd.jpg" group-title="SPORTS",TNT SPORTS 1 HD
+http://100.64.32.2:8080/wetvlink/wetvlink/166.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/tnt2hd.jpg" group-title="SPORTS",TNT SPORTS 2 HD
+http://100.64.32.2:8080/wetvlink/wetvlink/167.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/tnt3hd.jpg" group-title="SPORTS",TNT SPORTS 3 HD
+http://100.64.32.2:8080/wetvlink/wetvlink/168.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/tnt4hd.jpg" group-title="SPORTS",TNT SPORTS 4 HD
+http://100.64.32.2:8080/wetvlink/wetvlink/169.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/skysportsgolf.jpg" group-title="SPORTS",SKY SPORTS GOLF HD
+http://100.64.32.2:8080/wetvlink/wetvlink/170.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/fubosports.jpg" group-title="SPORTS",FUBO SPORTS
+http://100.64.32.2:8080/wetvlink/wetvlink/171.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/xtreamsports.jpg" group-title="SPORTS",XTREAM SPORTS
+http://172.21.22.23:8080/Webtvservice/Webtvservice/170.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/worldsports.jpg" group-title="SPORTS",WORLD SPORTS
+http://172.21.22.23:8080/Webtvservice/Webtvservice/171.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/willow.jpg" group-title="SPORTS",WILLOW CRICKET
+http://100.64.32.2:8080/wetvlink/wetvlink/172.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/ptvsports.jpg" group-title="SPORTS",PTV SPORTS
+http://100.64.32.2:8080/wetvlink/wetvlink/173.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/asports.jpg" group-title="SPORTS",A SPORTS
+http://100.64.32.2:8080/wetvlink/wetvlink/214.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/eurosports.jpg" group-title="SPORTS",EURO SPORTS HD
+http://100.64.32.2:8080/wetvlink/wetvlink/175.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/btv.jpg" group-title="BANGLA",BTVNATIONAL
+http://100.64.32.2:8080/wetvlink/wetvlink/180.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/gazitvhd.jpg" group-title="BANGLA",GAZI TV HD
+http://100.64.32.2:8080/wetvlink/wetvlink/176.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/jamunatv.jpg" group-title="BANGLA",JAMUNA TV
+http://100.64.32.2:8080/wetvlink/wetvlink/177.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/independent.jpg" group-title="BANGLA",INDEPENDENT TV
+http://100.64.32.2:8080/wetvlink/wetvlink/178.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/atnnews.jpg" group-title="BANGLA",ATN NEWS HD
+http://100.64.32.2:8080/wetvlink/wetvlink/179.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/channeli.jpg" group-title="BANGLA",CHANNEL I HD
+http://100.64.32.2:8080/wetvlink/wetvlink/181.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/somoytv.jpg" group-title="BANGLA",SOMOY TV HD
+http://100.64.32.2:8080/wetvlink/wetvlink/182.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/zeebangla.jpg" group-title="BANGLA",ZEE BANGLA
+http://100.64.32.2:8080/wetvlink/wetvlink/187.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/starjalsha.jpg" group-title="BANGLA",STAR JALSHA
+http://100.64.32.2:8080/wetvlink/wetvlink/188.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/starmovieshd.jpg" group-title="HINDI",STAR MOVIES HD
+http://100.64.32.2:8080/wetvlink/wetvlink/189.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/aljazeranews.jpg" group-title="NEWS",ALJAZEERA NEWS
+http://100.64.32.2:8080/wetvlink/wetvlink/190.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/bbcworldnews.jpg" group-title="NEWS",BBC WORLD
+http://100.64.32.2:8080/wetvlink/wetvlink/192.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/bbcearthnews.jpg" group-title="NEWS",BBC EARTH
+http://100.64.32.2:8080/wetvlink/wetvlink/191.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/sangeetbangla.jpg" group-title="MUSIC",SANGEET BANGLA
+http://100.64.32.2:8080/wetvlink/wetvlink/183.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/9xm.jpg" group-title="MUSIC",9XM
+http://100.64.32.2:8080/wetvlink/wetvlink/184.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/disneykids.jpg" group-title="KIDS",DISNEY KIDS
+http://100.64.32.2:8080/wetvlink/wetvlink/185.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/cartoonetwork.jpg" group-title="KIDS",CARTOON NETWORK
+http://100.64.32.2:8080/wetvlink/wetvlink/186.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/colorscineplex.jpg" group-title="ENGLISH",COLORS CINEPLEX
+http://100.64.32.2:8080/wetvlink/wetvlink/195.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/natgeowild.jpg" group-title="ENGLISH",NAT GEO WILD
+http://100.64.32.2:8080/wetvlink/wetvlink/196.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/discoveryhd.jpg" group-title="ENGLISH",DISCOVERY
+http://100.64.32.2:8080/wetvlink/wetvlink/193.m3u8
+#EXTINF:-1 tvg-logo="http://100.64.32.2:8080/wetvlink/wetvlink/images/animalplanet.jpg" group-title="ENGLISH",ANIMAL PLANET
+http://100.64.32.2:8080/wetvlink/wetvlink/194.m3u8
